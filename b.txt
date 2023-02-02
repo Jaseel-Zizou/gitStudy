@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 b
+||||||| merged common ancestors
+=======
+a
+>>>>>>> 17afeddafa317ff44f0adb567b2eb3bb2bda50d2
